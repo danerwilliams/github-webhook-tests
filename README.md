@@ -12,4 +12,3 @@ sample repository to test out some github webhooks
 |[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF | |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
-|[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
