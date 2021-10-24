@@ -20,4 +20,3 @@ sample repository to test out some github webhooks
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | New Analyst (SWE and others)|
 |[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
 |[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
-|[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
