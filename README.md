@@ -21,4 +21,3 @@ sample repository to test out some github webhooks
 |[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
 |[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
 |[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
-|[Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Campus-Hire-Full-Time-Class-of-2022/543) | NYC | |
