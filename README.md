@@ -10,4 +10,3 @@ sample repository to test out some github webhooks
 [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675)| New York | Algo Developer, [SWE](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641) |
 |[Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/)| Boston + others | Full-Stack Engineer |
 |[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF | |
-|[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
