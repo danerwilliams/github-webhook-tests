@@ -13,4 +13,3 @@ sample repository to test out some github webhooks
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
 |[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
-|[Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | Chicago, NY, Boston | New Grad SWE (Spring/Winter 2022) |
