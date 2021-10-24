@@ -18,4 +18,3 @@ sample repository to test out some github webhooks
 |[The Voleon Group](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | Berkeley | |
 |[SIG](https://careers.sig.com/job/5471/Software-Developer-Campus-2022-Start) | Bala Cynwyd, PA | |
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | New Analyst (SWE and others)|
-|[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
