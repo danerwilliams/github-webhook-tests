@@ -13,7 +13,6 @@ sample repository to test out some github webhooks
 |[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
 |[Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | Chicago, NY, Boston | New Grad SWE (Spring/Winter 2022) |
 |[The Voleon Group](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | Berkeley | |
-|[SIG](https://careers.sig.com/job/5471/Software-Developer-Campus-2022-Start) | Bala Cynwyd, PA | |
 |[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
 |[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
 |[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions |
