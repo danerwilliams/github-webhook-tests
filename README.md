@@ -14,7 +14,6 @@ sample repository to test out some github webhooks
 |[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
 |[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions |
 |[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | NYC, Alpharetta | |
-|[Vanguard](https://www.vanguardjobs.com/job-search-results/?category=Technology&level%5B%5D=Student%20%26%20Recent%20Graduates) | Multiple | |
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Quant + Swe |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
