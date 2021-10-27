@@ -18,7 +18,6 @@ sample repository to test out some github webhooks
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?category=Technology&level%5B%5D=Student%20%26%20Recent%20Graduates) | Multiple | |
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Quant + Swe |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | |
-|[Facebook](https://www.facebook.com/careers/v2/jobs/213402246952404/) | Multiple | |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
 |[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/) | Chicago, Austin | [SWE (Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/), [SWE (Austin)](https://www.optiver.com/working-at-optiver/career-opportunities/5423874002/) |
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000044848ENUS/Entry-Level-Global-Product-Development-Software-Engineer-Rotational-Program) | Warren, Michigan, United States of America | Entry Level Global Product Development – Software Engineer Rotational Program |
