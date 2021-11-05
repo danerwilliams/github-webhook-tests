@@ -3,7 +3,6 @@ sample repository to test out some github webhooks
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Jane Street](https://www.janestreet.com/join-jane-street/position/5311286002/) | NYC | |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
 |[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
 |[Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | Chicago, NY, Boston | New Grad SWE (Spring/Winter 2022) |
