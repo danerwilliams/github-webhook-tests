@@ -3,7 +3,6 @@ sample repository to test out some github webhooks
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
 |[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
 |[Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | Chicago, NY, Boston | New Grad SWE (Spring/Winter 2022) |
 |[The Voleon Group](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | Berkeley | |
