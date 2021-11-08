@@ -114,4 +114,3 @@ sample repository to test out some github webhooks
 |[Atlassian](https://www.atlassian.com/company/careers/detail/620921f2-c09c-4d3e-8bd2-f8781fbcc276) | CA, Remote  | SWE, PM, Site Reliability Eng, Data Scientist ([Full list here](https://www.atlassian.com/company/careers/students))|
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/3499021) | SF, NYC, Denver | No sponsorship |
 |[Google](https://careers.google.com/jobs/results/139295856164512454-software-engineer-early-career-campus/) | US, [Canada](https://careers.google.com/jobs/results/74898009881486022-software-developer-early-career-campus/) | SWE, [Front End](https://careers.google.com/jobs/results/91669597192626886-ux-engineer-front-end-early-career/) |
-|[tructus](https://boards.greenhouse.io/gusto/jobs/3499021) | SF, NYC, Denver | No sponsorship |
