@@ -18,10 +18,4 @@ sample repository to test out some github webhooks
 |[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Multiple positions, listed under University at bottom of the page|
 |[Sunshine](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4) | Palo Alto, CA |  |
 |[PEAK6](https://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineer-campus-entry-level/3193254?gh_jid=3193254#/) | Chicago, IL |  |
-  
-        
-    
-      
-      
-      
-      
+| [example job](https://example.com/) | NYC | test |
