@@ -12,8 +12,6 @@ sample repository to test out some github webhooks
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Quant + Swe |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
-|[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/) | Chicago, Austin | [SWE (Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/), [SWE (Austin)](https://www.optiver.com/working-at-optiver/career-opportunities/5423874002/) |
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000044848ENUS/Entry-Level-Global-Product-Development-Software-Engineer-Rotational-Program) | Warren, Michigan, United States of America | Entry Level Global Product Development – Software Engineer Rotational Program |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | Seattle, Provo | |
 |[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Multiple positions, listed under University at bottom of the page|
-| [test](https://example.com) | test | test |
